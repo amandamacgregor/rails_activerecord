@@ -1,0 +1,2 @@
+class PokemonTracker < ApplicationRecord
+end
